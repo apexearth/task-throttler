@@ -1,0 +1,9 @@
+{
+  "name": "task-throttler",
+  "main": "index.js",
+  "version": "0.0.2",
+  "dependencies": {
+    "async": "~0.8.0"
+  },
+  "author": "apexearth@gmail.com"
+}
