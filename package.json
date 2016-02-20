@@ -1,11 +1,12 @@
 {
   "name": "task-throttler",
   "main": "index.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "async": "~0.8.0"
   },
   "author": "apexearth@gmail.com",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "http://github.com/apexearth/task-throttler"
